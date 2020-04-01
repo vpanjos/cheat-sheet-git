@@ -17,57 +17,84 @@ git init
 
 3. Sincronizar com o repositório do Github
 
-```git remote add origin https://github.com/vssaAnjos/repositorio.git```
+```
+git remote add origin https://github.com/vssaAnjos/repositorio.git
+```
 
 4. Para adicinar gitignore com 
 
-```vim .gitignore``` 
+```
+vim .gitignore
+``` 
 
 5. Baixar readme do Github (caso tenha sido criado) 
 
-```git pull origin master```
+```
+git pull origin master
+```
 
 6. Para adicionar os arquivos do repositório local no repositório remoto do Github
 
-```git add . ``` 
+```
+git add . 
+``` 
 ou 
-```git add <nome arquivo>```
+```
+git add <nome arquivo>
+```
 
 7. Para salvar alterações no repositório com uma mensagem no commit
 
-```git commit -m "comentario"```
+```
+git commit -m "comentario"
+```
 
 8. Para atualizar as alterações no repositório remoto - nessa caso o Github
-```git push -u origin master```
+```
+git push origin master
+```
 
 * Comando coringa para mostrar o status das mudanças atuais
 
-```git status``` 
+```
+git status
+``` 
 
 ### Baixando repositório remoto do Github para repositório local
 
 Para baixar as mudanças da repositorio remoto para o repositorio local
 
-```git pull origin master```
+```
+git pull origin master
+```
 ou 
-```git pull origin <outra-branch>```
+```
+git pull origin outra-branch
+```
 
 ### Branchs
 
 Para listar todas branchs
 
-```git branch -a```
+```
+git branch -a
+```
 
 Para trocar de branch
 
-```git checkout "Nome da branch"```
+```
+git checkout Nome-da-branch
+```
 
 Para criar nova branch
-
-```git branch Nome_da branch```
+```
+git branch Nome-da-branch
+```
 
 Para atualizar as alterações e nova branch ao repositório remoto (nessa caso Github)
-```git push origin Nome_da branch```
+```
+git push origin Nome-da-branch
+```
 
 ### Referências
 
