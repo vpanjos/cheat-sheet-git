@@ -6,6 +6,8 @@
 
 1. Criar repositorio github
 
+![Github](https://github.com/vssaAnjos/cheat-sheet-git/blob/master/github_new_repos.png)
+
 @import "github_new_repos.png"
 
 1.1 Será enviado para essa página
