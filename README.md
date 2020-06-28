@@ -32,6 +32,10 @@ vim .gitignore
 ```
 git pull origin master
 ```
+ou 
+```
+git pull origin
+```
 
 6. Para adicionar os arquivos do repositório local no repositório remoto do Github
 
@@ -53,8 +57,12 @@ git commit -m "comentario"
 ```
 git push origin master
 ```
+ou
+```
+git push origin
+```
 
-* Comando coringa para mostrar o status das mudanças atuais
+:pushpin: Comando coringa para mostrar o status das mudanças atuais
 
 ```
 git status
@@ -70,6 +78,10 @@ git pull origin master
 ou 
 ```
 git pull origin outra-branch
+```
+ou
+```
+git pull origin
 ```
 
 ### Branchs
