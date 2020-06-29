@@ -121,9 +121,6 @@ Acessar tela de pull request
 
 5- Em seguida irá abrir a tela para confirmar o PR. Clicar em **Confirm merge**. 
 
-6- 
-
-
 ### Referências
 
 - https://git-scm.com/
