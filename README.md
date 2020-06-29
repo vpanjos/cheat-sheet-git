@@ -111,15 +111,17 @@ git push origin Nome-da-branch
 ### Pull Request
 Para abrir um Pull Request de uma branch para outra
 Acessar tela de pull request
-![Github new pr]()
+![Github new pr](https://github.com/vssaAnjos/cheat-sheet-git/blob/master/github_pr_1.png)
 
-2- Na aba Pull Requests,selecionar as branchs - a branch base (destimo) e a branch para ser comparada.
+2- Na aba Pull Requests,selecionar as branchs - a branch base (destimo) e a branch para ser comparada. E cliclar no botão **Create pull request**
+![Github new pr](https://github.com/vssaAnjos/cheat-sheet-git/blob/master/github_pr_2.png)
 
-3- Cliclar no botão **Create pull request**
+3- Após aberto o PR - pull request. Verificar as diferenças entre os códigos. E caso tudo certo, clicar em **merge request** 
+![Github new pr](https://github.com/vssaAnjos/cheat-sheet-git/blob/master/github_pr_3.png)
 
-4- Após aberto o PR - pull request. Verificar as diferenças entre os códigos. E caso tudo certo, clicar em **merge request** 
+4- Em seguida irá abrir a tela para confirmar o PR. Clicar em **Confirm merge**. 
+![Github new pr](https://github.com/vssaAnjos/cheat-sheet-git/blob/master/github_pr_4.png)
 
-5- Em seguida irá abrir a tela para confirmar o PR. Clicar em **Confirm merge**. 
 
 ### Referências
 
