@@ -108,6 +108,22 @@ Para atualizar as alterações e nova branch ao repositório remoto (nessa caso 
 git push origin Nome-da-branch
 ```
 
+### Pull Request
+Para abrir um Pull Request de uma branch para outra
+Acessar tela de pull request
+![Github new pr]()
+
+2- Na aba Pull Requests,selecionar as branchs - a branch base (destimo) e a branch para ser comparada.
+
+3- Cliclar no botão **Create pull request**
+
+4- Após aberto o PR - pull request. Verificar as diferenças entre os códigos. E caso tudo certo, clicar em **merge request** 
+
+5- Em seguida irá abrir a tela para confirmar o PR. Clicar em **Confirm merge**. 
+
+6- 
+
+
 ### Referências
 
 - https://git-scm.com/
